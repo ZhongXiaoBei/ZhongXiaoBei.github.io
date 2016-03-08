@@ -2,7 +2,7 @@
 layout: post
 title: "Android Studio 小技巧合集"
 description: "Android Studio 小技巧合集"
-category: Android Studio
+category: "Android Studio"
 tags: [Android Studio]
 ---
 
