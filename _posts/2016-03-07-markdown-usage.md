@@ -254,8 +254,3 @@ Markdown的使用者：
 
 关于其它扩展语法可参见具体工具的使用说明。
 
-<object type="application/x-shockwave-flash" style="outline:none;" data="http://cdn.abowman.com/widgets/hamster/hamster.swf?" width="253" height="190">
-<param name="movie" value="http://cdn.abowman.com/widgets/hamster/hamster.swf?"></param>
-<param name="AllowScriptAccess" value="always"></param>
-<param name="wmode" value="opaque"></param>
-</object>
