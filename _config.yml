@@ -5,7 +5,7 @@ header-img: img/bigshows/coding1.jpg
 email: xiaobei3120@gmail.com
 description: "君子性非异也，善假于物也"
 keyword: "Android, xiaobei"
-url: "https://imbei.cn"              # your host, for absolute URL
+url: "http://blog.imbei.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
